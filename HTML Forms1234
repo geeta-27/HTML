@@ -1,0 +1,37 @@
+<forms>
+    <h1>Login</h1>
+    Username : <input type="text" name="Username" value="" maxlength=20" size="20"><br><br>
+    Password : <input type="password" name="password" value=""><br><br>
+    <h1>Radio buttons</h1>
+    <h2>Gender</h2>
+    <input type="radio" name="gender">Male<br>
+    <input type="radio" name="gender">Female<br><br>
+    <h1>Checkbox</h1>
+    <input type="checkbox" name="Hobbies"> Playing<br>
+    <input type="checkbox" name="Hobbies"> Singing<br>
+    <input type="checkbox" name="Hobbies"> Dancing<br>
+    <input type="checkbox" name="Hobbies"> Reading<br>
+    <input type="checkbox" name="Hobbies"> Painting<br>
+    <input type="checkbox" name="Hobbies"> Chatting<br><br>
+
+    <h1>Textarea</h1>
+    <h2>Address</h2>
+    <textarea rows="5" cols="40" placeholder="Enter the address"></textarea><br<br>
+
+    <h1>Select tag</h1>
+    <select size="8" multiple>
+        <option>C</option>
+        <option name="course" selected>C++</option>
+        <option>Python</option>
+        <option>Java</option>
+    </select>
+
+    <h1>File upload</h1>
+    <input type="file" name="file" accept="">
+
+    <h1>Button</h1>
+    <input type="submit" name="button" value="Submit"><br>
+    <input type="reset" name="button" value="Reset"><br>
+    <input type="button" name="button" value="Click"><br>
+    <input type="image" name="imgbutton" src="Images/Kane.jpeg" width="200px" height="auto">
+</forms>

@@ -1,0 +1,15 @@
+<form action="#">
+<input type="text" name="fname" placeholder="Enter your first name">
+<br />
+<input type="text" name="lname" placeholder="Enter your last name">
+<br />
+<textarea name="address" id="address" cols="30" rows="10" placeholder="Enter your address"></textarea><br>
+
+Gender<br>
+<input type="radio" value="Male" name="gender"> Male <br/ >
+<input type="radio" value="Female" name="gender"> Female <br>
+<input type="checkbox" name="car" id="car"> Car
+<input type="checkbox" name="bike" id="Bike"> Bike
+<br />
+<input type="submit" value="Submit">
+</form>

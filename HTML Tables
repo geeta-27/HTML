@@ -1,0 +1,104 @@
+<h1>Without border</h1>
+<table>
+<thead>
+    <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Phone no,</th>
+    </tr>
+</thead>
+<body>
+    <tr>
+        <td>Munna</td>
+        <td>mu@1234</td>
+        <td>9620243880</td>
+    </tr>
+    <tr>
+        <td>Kavya</td>
+        <td>ka@1234</td>
+        <td>8412007983</td>
+    </tr>
+</body> 
+</table>   
+<br />
+
+<h1>With border and width</h1>
+<table border="1" width="444">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone no,</th>
+        </tr>
+    </thead>
+    <body>
+        <tr>
+            <td>Munna</td>
+            <td>mu@1234</td>
+            <td>9620243880</td>
+        </tr>
+        <tr>
+            <td>Kavya</td>
+            <td>ka@1234</td>
+            <td>8412007983</td>
+        </tr>
+    </body> 
+</table>  
+<br />
+
+<h1>With border and rowspan</h1>
+<table border="2" width="444">
+    <thead>
+        <tr>
+            <th>Month</th>
+            <th>Amount</th>
+            <th>Paid</th>
+        </tr>
+    </thead>
+    <body>
+        <tr>
+            <td rowspan="2">Jan</td>
+            <td>100</td>
+            <td>80</td>
+        </tr>
+        <tr>
+            
+            <td>100</td>
+            <td>80</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Feb</td>
+            <td>100</td>
+            <td>80</td>
+        </tr>
+        <tr>
+           
+            <td>200</td>
+            <td>180</td>
+        </tr>
+    </body> 
+</table>  
+<br />
+
+<h1>With border and colspan</h1>
+<table border="2" width="444">
+    <thead>
+        <tr>
+            <th colspan="2">Name</th>
+            <th>Age</th>
+        </tr>
+    </thead>
+    <body>
+        <tr>
+            <td>Munna</td>
+            <td>Anne</td>
+            <td>9620243880</td>
+        </tr>
+        <tr>
+            <td>Kavya</td>
+            <td>Anne</td>
+            <td>8412007983</td>
+        </tr>
+    </body> 
+</table>  
+<br />

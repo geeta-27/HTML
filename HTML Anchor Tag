@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wish</title>
+</head>
+
+<body>
+    <h1>Multiple websites</h1>
+    <p>I use PrepInsta for my self</p>
+    <p>I use <a href="https://www.PrepInsta.com">PrepInsta<a></a> for my self</p>
+    <p>I use <a href="https://www.PrepInsta.com/PrepInstaprime" target="_blank" draggable="false">PrepInstaprime<a></a>
+            for my self</p>
+</body>
+
+<body>
+    <ul>
+        <li><a href="https://www.Instagram.com">Instagram</a></li>
+        <li><a href="https://www.Facebook.com">Facebook</a></li>
+        <li><a href="https://www.Youtube.com">Youtube</a></li>
+        <li><a href="https://login.gitam.edu">Gitam web login</a></li>
+        <li><a href="https://www.learn.gitam.edu.com">Module</a></li>
+    </ul>
+    </ul>
+</body>
+
+</html>

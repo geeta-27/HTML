@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PREVIEW</title>
+</head>
+<body>
+    <h1>Ordered list</h1>
+    <ol>
+        <li>C</li>
+        <li>C++</li>
+        <li>Java</li>
+        <li>Python</li>
+    </ol>
+    
+</body>
+
+<body>
+    <h1>Unorderd list</h1>
+    <ul>
+        <li>C</li>
+        <li>C++</li>
+        <li>Java</li>
+        <li>Python</li>
+    </ul>
+    <h1>Nested list(A^,a)</h1>
+    <ol type="A">
+        <li>C</li>
+        <li>C++</li>
+        <li>WAD</li>
+        <ol type="a">
+            <li>HTML</li>
+            <li>JSS</li>
+            <li>CSS</li>
+        </ol>
+        <li>Python</li>
+    </ol>
+    <h1>Nested list(I^,i)</h1>
+    <ol type="I">
+        <li>C</li>
+        <li>C++</li>
+        <li>WAD</li>
+        <ol type="i">
+            <li>HTML</li>
+            <li>JSS</li>
+            <li>CSS</li>
+        </ol>
+        <li>Python</li>
+    </ol>
+</body>
+</html>
